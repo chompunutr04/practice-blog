@@ -24,13 +24,6 @@ The exercises are intended for academic practice: experimenting with markup, tem
 
 ## 🧠 Technologies (example)
 - HTML • CSS • JavaScript (vanilla)  
-- (Optional) Node.js + Express + EJS or PHP for server-rendered examples  
-- (Optional) Lightweight storage: JSON files or SQLite / MySQL for practice
+- Node.js + Express + EJS or PHP for server-rendered examples  
+- Lightweight storage: JSON files or SQLite / MySQL for practice
 
-## 🚀 How to run (quick)
-### Static (plain HTML/CSS/JS)
-1. Open `index.html` in your browser, **or** serve folder:
-```bash
-# Python 3 simple server
-python -m http.server 8000
-# open http://localhost:8000
